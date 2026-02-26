@@ -1,0 +1,2 @@
+Sistema para Monitorização de Plantas
+Diversas aplicações têm surgido no âmbito da internet das coisas e no que toca à componente de monitorização do mundo que nos rodeia tal não é excepção. Neste projecto pretende-se implementar um protótipo de um nó para monitorização e controlo de plantas usando uma rede bluetooth.  Os alunos são encorajados a utilizar uma linguagem de programação com a qual se sintam confortáveis e toda a componente de aquisição será realizada com recurso a sensores e de um raspberry.
